@@ -27,7 +27,7 @@ Graphical Interface: CustomTkinter, Pillow (PIL)
 Installation & Setup
 
 Clone the Repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/faizitech11/Gesture-recognition/
 cd YOUR_REPOSITORY_NAME
 
 Install Dependencies
